@@ -1,0 +1,45 @@
+# training/test data
+1d_data/1d_root/jpeg/test/clean/*.png
+1d_data/1d_root/jpeg/test/noisy/*.png
+1d_data/1d_root/jpeg/train/clean/*.png
+1d_data/1d_root/jpeg/train/noisy/*.png
+
+1d_data/1d_root/mixed_gaussian/test/clean/*.png
+1d_data/1d_root/mixed_gaussian/test/noisy/*.png
+1d_data/1d_root/mixed_gaussian/train/clean/*.png
+1d_data/1d_root/mixed_gaussian/train/noisy/*.png
+
+1d_data/1d_root/real/test/clean/*.png
+1d_data/1d_root/real/test/noisy/*.png
+1d_data/1d_root/real/train/clean/*.png
+1d_data/1d_root/real/train/noisy/*.png
+
+1d_data/1d_root/single_gauss/test/clean/*.png
+1d_data/1d_root/single_gauss/test/noisy/*.png
+1d_data/1d_root/single_gauss/train/clean/*.png
+1d_data/1d_root/single_gauss/train/noisy/*.png
+
+1d_data/1d_root/uniform/test/clean/*.png
+1d_data/1d_root/uniform/test/noisy/*.png
+1d_data/1d_root/uniform/train/clean/*.png
+1d_data/1d_root/uniform/train/noisy/*.png
+
+# training/test results
+results/1d_jpeg_residual/test/*.png
+results/1d_jpeg_residual/train/*.png
+
+results/1d_mixed_gaussian_residual/test/*.png
+results/1d_mixed_gaussian_residual/train/*.png
+
+results/1d_real_residual/test/*.png
+results/1d_real_residual/train/*.png
+
+results/1d_single_gauss_residual/test/*.png
+results/1d_single_gauss_residual/train/*.png
+
+results/1d_uniform_residual/test/*.png
+results/1d_uniform_residual/train/*.png
+
+# other system files
+.ipynb_checkpoints
+

@@ -1,0 +1,18 @@
+The following are average psnr/ssim comparisons of corresponding data sets (test part):
+
+- Uniform:
+    Avg Test PSNR = 17.177dB, Avg Test SSIM = 0.377 Avg Test PSNR = 25.736dB, Avg Test SSIM = 0.844
+
+- Single Gaussian:
+    Avg Test PSNR = 20.304dB, Avg Test SSIM = 0.530 Avg Test PSNR = 25.742dB, Avg Test SSIM = 0.853
+
+- Mixed Gaussian:
+    Avg Test PSNR = 20.302dB, Avg Test SSIM = 0.527 Avg Test PSNR = 23.296dB, Avg Test SSIM = 0.850
+
+- Real:
+    Avg Test PSNR = 11.709dB, Avg Test SSIM = 0.688 Avg Test PSNR = 18.878dB, Avg Test SSIM = 0.742
+
+- JPEG:
+    Avg Test PSNR = 27.638dB, Avg Test SSIM = 0.853 Avg Test PSNR = 27.165dB, Avg Test SSIM = 0.857
+
+Note: the left psnr/ssim are measured between noisy image and clean image; the right psnr/ssim are measured between denoised image and clean image.
