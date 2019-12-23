@@ -8,6 +8,11 @@ pytorch 1.2.0
 ```
 <img src="tree_directory.png" width="250px"/>
 
+## Data
+Dataset: BSD68(clean images) and dnd2017(noisy images).
+Please refer to the python notebook data_generation.ipynb.
+
+
 ## Train
 Take mixed_gaussian for example, the command line for runing the python script would be:
 ```
