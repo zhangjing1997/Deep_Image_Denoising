@@ -24,5 +24,4 @@ main_test.py --model_dir models/DnCNN_1d_mixed_gaussian_residual --model_name mo
 
 Please refer to the finalized poster pdf and evaluated cases in the resulted directory.
 
-
-
+<img src="results_cmp.png" width="450px"/>
