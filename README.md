@@ -1,6 +1,6 @@
 # Overviw
 
-This group project is finished for an enrolled class Duke ECE588 - Image and Video Analysis. Based on the training framework and pytorch implementation of DnCNN by original author[https://github.com/cszn/DnCNN/tree/master/TrainingCodes/dncnn_pytorch], we generate different sorts of noise according to what we learned in the class and actively add noises into clean images(BSD68 dataset) to form image pairs - clean and noisy.
+This group project is finished for an enrolled class Duke ECE588 - Image and Video Analysis. Based on the training framework and pytorch implementation of DnCNN by [original author](https://github.com/cszn/DnCNN/tree/master/TrainingCodes/dncnn_pytorch), we generate different sorts of noise according to what we learned in the class and actively add noises into clean images(BSD68 dataset) to form image pairs - clean and noisy.
 
 ## Dependence
 ```
